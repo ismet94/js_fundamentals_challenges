@@ -1,10 +1,10 @@
-# CSS Challenges
+# Javascript Fundamentals Challenges
 
-- Fonts and Colours (Challenge 1): This challenge focused on colouring the text and headings on the website. Internal coding was created into the html file.
-- Challenge 2: Proceeded with all code provided and edited where needed. The challanged mainly focused on links, borders, side bars and hovering. A backgound colour with a gradient was selected to give it a elegant feel.
-- Challenge 3:
-- Float Box Challenge (Challenge 4): By contructing individual boxes and floating some left and right I learned to create and divide sections. This challenge also helped me to hover over certain boxes with different properties.
-- Google Font Challenge (Challenge 5): This helped me to use different methods to load google fonts into my website. 
+- Challenge 1 Display data types: Displayed different types of variables that can be implemented such as arrays, strings, objects, boolean, numbers, undefined, null and date.
+- Challenge 2 I am in disarray: Learned to code an array and to establish a certain attribute within the array.
+- Challenge 3 Build a rainbow: Here I learned to create divs and added funtions when clicked on by outputting a colour.
+- Challenge 4 Coundown timer: Created a countdown timer from the current date to my birthday date.
+
 
 ## Setting up your workspace
 
@@ -17,7 +17,7 @@
 
 ## Live Link
 
--  https://ismet94.github.io/headings_paragraphs_challenge/
+-  https://ismet94.github.io/js_fundamentals_challenges/
 
 ## Prevalent Technologies Used
 
@@ -29,38 +29,45 @@ Technologies and Tools Used:
 
 - HTML5 Guide Book
 - Google Research
+- W3Schools
+- Javascript.info
 
 Languages:
 
 - HTML
 - CSS
+- Javascript
 
 Tools:
 
 - GitBash
 - Github
-- Atom
 - Visual Studio Code
 - Google Chrome
+- Firefox Developer Edition
 
 ### Changelog
 
-2018-11-19:
-- Base folders added
-- Readme Created and edited
-- Created the headings_paragraphs_challenge.html 
-- Uploaded to github
+2018-02-19:
+- Created repository for named js_fundamentals_challenges
+- started challenge 1 : completed challenge 1
+- started challenge 2 : completed challenge 2
+- started challenge 3 : completed challenge 3
+- pushed to server
 
-2019-01-29:
-- Created folder structure for challenge 4
-- Edited readme.md file
-- created the float_challenge.html and the style.css files
-- Completed task
 
-2019-01-30:
+2019-02-20:
+- Edited challenge 3 
+- pushed to server
+
+2019-02-21:
+- Edited challenge 1 with an update
+- Changed folder names within repository
+- started challenge 4 : completed challenge 4
+- Edited challenge 
 
 ## Contributors
 
-Ismet Samsodien� - 2018
+Ismet Samsodien - 2018
 
 
